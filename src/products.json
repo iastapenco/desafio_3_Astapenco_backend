@@ -1,0 +1,22 @@
+[
+  { "title": "Cafe de Colombia", "price": 500, "category": "cafe", "id": 1 },
+  { "title": "Cafe de Ecuador", "price": 800, "category": "cafe", "id": 2 },
+  { "title": "Cafe de Brasil", "price": 400, "category": "cafe", "id": 3 },
+  { "title": "Cafetera V60", "price": 2500, "category": "accesorios", "id": 4 },
+  { "title": "Aeropress", "price": 2300, "category": "accesorios", "id": 5 },
+  {
+    "title": "Cafetera Italiana",
+    "price": 2000,
+    "category": "accesorios",
+    "id": 6
+  },
+  {
+    "title": "Prensa francesa",
+    "price": 1500,
+    "category": "accesorios",
+    "id": 7
+  },
+  { "title": "Cafe de Vietnam", "price": 1600, "category": "cafe", "id": 8 },
+  { "title": "Cafe de Etiopia", "price": 2000, "category": "cafe", "id": 9 },
+  { "title": "Cafe de Honduras", "price": 850, "category": "cafe", "id": 10 }
+]
